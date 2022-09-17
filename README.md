@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm David Alagwu
+A Graphic Designer, Freelancer, A frontend Web Developer and training to be a Software Engineer @ Alxafrica
 
-<!--
-**Alagwudavid/Alagwudavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning to be a certified Software Engineer
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on projects relating to Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Feel free to ask me about tourism-related, Linux OS and Programming languages
+
+📫 How to reach me:
+Alagwudavid@gmail.com
+www.youtube.com/channel/UC_lzBbwq_DpNjIOOcRNVLRw?sub_confirmation=1
+
+Languages and Tools:
+c css3 git html5 java javascript linux
+
+Support:
+Alagwudavid
