@@ -1,6 +1,9 @@
 ### Hi there 👋, I'm David Alagwu
 A Graphic Designer, Freelancer, A frontend Web Developer and training to be a Software Engineer @ Alxafrica
 
+<a href="https://www.github.com/Alagwudavid" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Alagwudavid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 🌱 I’m currently learning to be a certified Software Engineer
 
 👯 I’m looking to collaborate on projects relating to Programming
