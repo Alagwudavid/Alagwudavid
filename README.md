@@ -4,6 +4,7 @@ A Graphic Designer, Freelancer, A frontend Web Developer and training to be a So
 <a href="https://www.github.com/Alagwudavid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Alagwudavid?logo=github&style=for-the-badge&color=0191b2&labelColor=1c1917" /></a>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techbydami" alt="techbydami" /></a> </p>
 🌍  I'm based in Nigeria
 🌱 I’m currently learning to be a certified Software Engineer
 👯 I’m looking to collaborate on projects relating to Programming
