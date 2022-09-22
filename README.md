@@ -1,5 +1,10 @@
+<style>
+.profile{
+  border-radius: 25px;
+  }
+</style>
 ### Hi there 👋, I'm David Alagwu
-<img src="https://avatars.githubusercontent.com/u/57830927?v=4" alt="profilepic" width="200px" style="border-radius:25px;">
+<img src="https://avatars.githubusercontent.com/u/57830927?v=4" alt="profilepic" width="200px" class="profile">
 A Graphic Designer, Freelancer, A frontend Web Developer and training to be a Software Engineer @ Alxafrica
 
 <a href="https://www.github.com/Alagwudavid" target="_blank" rel="noreferrer"><img
