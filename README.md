@@ -12,8 +12,6 @@ src="https://img.shields.io/github/followers/Alagwudavid?logo=github&style=for-t
 💬 Feel free to ask me about tourism-related, Linux OS and Programming languages
 📫 How to reach me:
 Alagwudavid@gmail.com
-www.youtube.com/channel/UC_lzBbwq_DpNjIOOcRNVLRw?sub_confirmation=1
-
 
 ### Skills
 
@@ -28,7 +26,8 @@ www.youtube.com/channel/UC_lzBbwq_DpNjIOOcRNVLRw?sub_confirmation=1
 <p align="left"> <a href="https://www.github.com/Alagwudavid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/Designbossng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/davidalagwung" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/davidalagwung" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+<a href="www.youtube.com/channel/UC_lzBbwq_DpNjIOOcRNVLRw?sub_confirmation=1
+" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
