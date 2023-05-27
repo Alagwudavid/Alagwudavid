@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alagwudavid" alt="Alagwudavid" width="550" /></a> </p>
 
-Location:
+status:
 > 🌍  I'm based in Nigeria <br>
-Status:
+
 > 🌱 I’m currently learning to be a certified Software Engineer <br>
-Others:
+
 > 👯 I’m looking to collaborate on projects relating to Programming <br>
-Faq:
+
 > 💬 Feel free to ask me about Computer-related, IT Support and Programming languages <br>
-Links:
+
 > 📫 How to reach me: Alagwudavid@gmail.com
 
 ### Skills
