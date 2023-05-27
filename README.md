@@ -14,7 +14,7 @@ status:
 
 > 💬 Feel free to ask me about Computer-related, IT Support and Programming languages <br>
 
-> 📫 How to reach me: Alagwudavid@gmail.com || Alagwudavid2019@gmail.com
+> 📫 How to reach me: Alagwudavid@gmail.com || Alagwudavid2019@gmail.com || Davidalagwu@icloud.com
 
 ### Skills
 
