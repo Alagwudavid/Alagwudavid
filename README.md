@@ -4,10 +4,16 @@
 | <a href="https://www.github.com/Alagwudavid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Alagwudavid?logo=github&style=for-the-badge&color=0191b2&labelColor=1c1917" /></a> | <a href="https://www.github.com/Alagwudavid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/Designbossng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/davidalagwung" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@multicademy?sub_confirmation=1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> |
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alagwudavid" alt="Alagwudavid" width="550" /></a> </p>
+
+Location:
 > 🌍  I'm based in Nigeria
+Status:
 > 🌱 I’m currently learning to be a certified Software Engineer
+Others:
 > 👯 I’m looking to collaborate on projects relating to Programming
+Faq:
 > 💬 Feel free to ask me about Computer-related, IT Support and Programming languages
+Links:
 > 📫 How to reach me: Alagwudavid@gmail.com
 
 ### Skills
