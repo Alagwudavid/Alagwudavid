@@ -4,7 +4,7 @@
 ### I'm a Programmer👨‍💻, Graphic Designer, Freelancer and training to be a Software Engineer @Alxafrica
 </div>
 
-ℹ️ bio:
+### 📖 Bio
 > 🌍  I'm based in Nigeria <br>
 > 🌱 I’m currently learning to be a certified Software Engineer <br>
 > 👯 I’m looking to collaborate on projects relating to Programming <br>
