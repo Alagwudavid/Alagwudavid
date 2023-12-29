@@ -51,6 +51,12 @@ status:
    <a href="https://twitter.com/alagwu__">
     <img src="https://user-images.githubusercontent.com/66309753/196054394-954a3eab-1f5c-4b5e-b1ee-da182a06f55e.svg" title="Git" **alt="Git" width="40" height="40"/>
   </a>
+  <a href="https://www.github.com/Alagwudavid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Alagwudavid?logo=github&style=for-the-badge&color=0191b2&labelColor=1c1917" /></a>
+  <a href="https://www.github.com/Alagwudavid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.instagram.com/multicademy.ng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/davidalagwung" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.youtube.com/@multicademy?sub_confirmation=1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+  
 </div>
 
 ### :fire: My Stats
