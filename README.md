@@ -19,17 +19,6 @@ status:
 
 > 📫 How to reach me: Alagwudavid@gmail.com || Alagwudavid2019@gmail.com || Davidalagwu@icloud.com
 
-| LANGUAGES KNOWN | <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> | <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="C++" /></a> | <a href="https://docs.microsoft.com/en-us/dotnet/python/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> | <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> | <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> |
-|----------|----------|----------|----------|----------|----------|
-
-### Badges
-
-> My GitHub Stats
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alagwudavid&show_icons=true&text_color=ffffff&bg_color=00000000)
-
-<a href="http://www.github.com/Alagwudavid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alagwudavid&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 ### :hammer_and_wrench:Skills
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
