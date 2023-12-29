@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://avatars.githubusercontent.com/u/57830927?v=4" alt="profilepic" width="100px">
 ### Hello 👋, my name is <bold> David (Favour)</bold>, Alagwu
-### I'm a *Programmer*:man_technologist:, Graphic Designer, Freelancer and training to be a Software Engineer @Alxafrica
+### I'm a Programmer👨‍💻, Graphic Designer, Freelancer and training to be a Software Engineer @Alxafrica
 </div>
 
 |----------|----------|
