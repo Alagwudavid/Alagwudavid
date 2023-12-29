@@ -4,8 +4,6 @@
 ### I'm a Programmer👨‍💻, Graphic Designer, Freelancer and training to be a Software Engineer @Alxafrica
 </div>
 
-| <a href="https://www.github.com/Alagwudavid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Alagwudavid?logo=github&style=for-the-badge&color=0191b2&labelColor=1c1917" /></a> | <a href="https://www.github.com/Alagwudavid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/Designbossng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/davidalagwung" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@multicademy?sub_confirmation=1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> |
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alagwudavid" alt="Alagwudavid" width="550" /></a> </p>
 
 status:
