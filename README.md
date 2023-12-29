@@ -4,17 +4,11 @@
 ### I'm a Programmer👨‍💻, Graphic Designer, Freelancer and training to be a Software Engineer @Alxafrica
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alagwudavid" alt="Alagwudavid" width="550" /></a> </p>
-
-status:
+ℹ️ bio:
 > 🌍  I'm based in Nigeria <br>
-
 > 🌱 I’m currently learning to be a certified Software Engineer <br>
-
 > 👯 I’m looking to collaborate on projects relating to Programming <br>
-
 > 💬 Feel free to ask me about Computer-related, IT Support and Programming languages <br>
-
 > 📫 How to reach me: Alagwudavid@gmail.com || Alagwudavid2019@gmail.com || Davidalagwu@icloud.com
 
 ### :hammer_and_wrench:Skills
@@ -53,6 +47,8 @@ status:
 </div>
 
 ### :fire: My Stats
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alagwudavid" alt="Alagwudavid" width="550" /></a> </p>
+
 <a href="http://www.github.com/Alagwudavid"><img src="https://github-readme-stats.vercel.app/api?username=Alagwudavid&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Daniel's GitHub stats" /></a>
 
 <a href="http://www.github.com/Alagwudavid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alagwudavid&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
