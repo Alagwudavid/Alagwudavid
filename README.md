@@ -42,16 +42,9 @@ status:
 
 ### :hammer_and_wrench: Social
 <div>
-  <a href="https://github.com/alagwudavid" background-color=#DCDCDC>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/multicademy.ng/">
-    <img src="https://user-images.githubusercontent.com/66309753/196054012-d8d3f853-6c29-4bda-b0d1-cb6d76c9d5d3.png" title="Git" **alt="Git" width="40" height="40"/>
-  </a>
-   <a href="https://twitter.com/alagwu__">
+  <a href="https://twitter.com/alagwu__">
     <img src="https://user-images.githubusercontent.com/66309753/196054394-954a3eab-1f5c-4b5e-b1ee-da182a06f55e.svg" title="Git" **alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://www.github.com/Alagwudavid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Alagwudavid?logo=github&style=for-the-badge&color=0191b2&labelColor=1c1917" /></a>
   <a href="https://www.github.com/Alagwudavid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
   <a href="https://www.instagram.com/multicademy.ng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/davidalagwung" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
