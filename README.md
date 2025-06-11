@@ -33,4 +33,4 @@ I am self-taught and learning React(NextJs), Tailwindcss, PHP(Laravel), JavaScri
 <a href="http://www.github.com/Alagwudavid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alagwudavid&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ## 🥇 My git stats.
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alagwudavid" alt="Alagwudavid" width="550" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=alagwudavid&theme=darkhub)](#)
