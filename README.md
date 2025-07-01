@@ -1,6 +1,5 @@
 ![welcome-to-my-profile](https://raw.githubusercontent.com/Alagwudavid/Alagwudavid/refs/heads/main/welcome-banner.png)
 
-
 # Hello! my name is David Alagwu
 
 Welcome to my profile on Github! Currently I am a student at UNN.
