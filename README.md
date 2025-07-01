@@ -18,10 +18,18 @@ I am self-taught and learning React(NextJs), Tailwindcss, PHP(Laravel), JavaScri
 <div style="display: inline_block"><br>
   <a href="https://www.instagram.com/a.daviddivad/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davidalagwu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:alagwudavid@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23FF004F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
+  <a href = "mailto:alagwudavid@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23FF004F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <span> <img src="https://komarev.com/ghpvc/?username=Alagwudavid&label=Profile%20views&color=6805D3&style=for-the-badge&abbreviated=true" alt="Alagwudavid" /></span>
 </div>
 
----
+##
+
+<div style="display: inline_block">
+  <h3 style="display:;"></h3>
+</div>
+
+
+##
 
 ## 📊 My Top languages on git.
 <a href="http://www.github.com/Alagwudavid"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alagwudavid&theme=vision-friendly-merko&layout=compact&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" /></a>
